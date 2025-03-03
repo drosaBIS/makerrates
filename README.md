@@ -2,7 +2,7 @@
 
 A beautiful application for rating and comparing programming languages, frameworks, and tools with a clean, modern interface.
 
-![MakerRates Screenshot](https://images.unsplash.com/photo-1607799279861-4dd421887fb3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![MakerRates Screenshot](https://i.imgur.com/LqOwydw.png)
 
 ## ✨ Features
 
